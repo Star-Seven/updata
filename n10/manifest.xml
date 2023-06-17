@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OnOTAInfo>
   <RomName>Star7-Rom</RomName>
-  <VersionName>20230617 Update</VersionName>
+  <VersionName>20230617 更新</VersionName>
   <BuildNumber type="integer">20230617</BuildNumber>
   <DownloadURL>https://share.weiyun.com/TSngxAQy</DownloadURL>
   <AndroidVer>12</AndroidVer>
   <OneUIVer>4.1</OneUIVer>
   <CheckMD5>11233</CheckMD5>
-  <FileSize type="long">1122</FileSize>
+  <FileSize type="long">10240</FileSize>
   <WebsiteURL>https://github.com/Star-Seven</WebsiteURL>
   <ChangelogHeader>https://i.ibb.co/92RxppQ/changelogheader1100.png</ChangelogHeader>
   <ChangelogURL>https://raw.githubusercontent.com/Star-Seven/updata/main/n10/changelog.txt</ChangelogURL>
