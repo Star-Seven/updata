@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OnOTAInfo>
   <RomName>Star7-Rom</RomName>
-  <VersionName>2023.06.17 Update</VersionName>
-  <BuildNumber type="integer">2023.06.17</BuildNumber>
+  <VersionName>20230617 Update</VersionName>
+  <BuildNumber type="integer">20230617</BuildNumber>
   <DownloadURL>https://share.weiyun.com/TSngxAQy</DownloadURL>
   <AndroidVer>12</AndroidVer>
   <OneUIVer>4.1</OneUIVer>
