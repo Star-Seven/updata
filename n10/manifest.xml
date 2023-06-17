@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OnOTAInfo>
+  <RomName>NcX S21FE</RomName>
+  <VersionName>2023.06.17 Update</VersionName>
+  <BuildNumber type="integer">2023.06.17</BuildNumber>
+  <DownloadURL>https://9goiiw.bl.files.1drv.com/y4mKfBHj9FEq1wuGU7or7Mfy9vbliM4ccNJZMRlAaN2pWGVmk92EBwS5fM_MuOV-WtwOQDkv8cFumzw-_p3sHWl8LlFiEH5YBbfJY8MQQn8JHH9Ozjm4q3ZbmTQWsD1JESLs1eNPfobbWj0CZzCwbb-RZgPBil2MGtLCbmzQgjJI1nHxAYZ-iNZ0pwfAYgCHpb__37vGal4LF9KHVYuQRBENQ/OTA-20230504-a52q.zip</DownloadURL>
+  <AndroidVer>12</AndroidVer>
+  <OneUIVer>4.1</OneUIVer>
+  <CheckMD5>85926d6f8c9244771775fac56e1df854</CheckMD5>
+  <FileSize type="long">990277757</FileSize>
+  <WebsiteURL>https://github.com/Star-Seven</WebsiteURL>
+  <ChangelogHeader>https://i.ibb.co/92RxppQ/changelogheader1100.png</ChangelogHeader>
+  <ChangelogURL></ChangelogURL>
+</OnOTAInfo>
