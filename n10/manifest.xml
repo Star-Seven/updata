@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OnOTAInfo>
-  <RomName>Star7-Rom</RomName>
-  <VersionName>20230617 更新</VersionName>
-  <BuildNumber type="integer">20230617</BuildNumber>
+  <RomName>One UI 5.1.1</RomName>
+  <VersionName>2023.09.01 更新</VersionName>
+  <BuildNumber type="integer">2023.09.01</BuildNumber>
   <DownloadURL>https://share.weiyun.com/TSngxAQy</DownloadURL>
-  <AndroidVer>12</AndroidVer>
-  <OneUIVer>4.1</OneUIVer>
+  <AndroidVer>13</AndroidVer>
+  <OneUIVer>5.1.1</OneUIVer>
   <CheckMD5>11233</CheckMD5>
   <FileSize type="long">990000000</FileSize>
   <WebsiteURL>https://github.com/Star-Seven</WebsiteURL>
